@@ -1,13 +1,13 @@
 .title {
     color: white !important;
     text-align: left;
-    text-size: 2em;
+    font-size: 2em;
     text-shadow: 2px 2px 5px black;
 }
 
 .author {
     color: white !important;
     text-align: left;
-    text-size: 1em;
+    font-size: 1em;
     text-shadow: 2px 2px 5px black;
 }
